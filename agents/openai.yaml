@@ -1,0 +1,4 @@
+interface:
+  display_name: "阿加莎·克里斯蒂推理顾问"
+  short_description: "用克里斯蒂式方法设计、审查和改编公平可解的本格推理谜案"
+  default_prompt: "使用 $agatha-christie-perspective 审查我的谜案大纲，检查真相账本、公平线索、误导与终局回收。"
